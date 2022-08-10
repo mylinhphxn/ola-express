@@ -1,0 +1,22 @@
+{
+  "name": "ola-express",
+  "version": "1.0.0",
+  "description": "This project features Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylinhphxn/ola-express.git"
+  },
+  "author": "Mylinh Phan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mylinhphxn/ola-express/issues"
+  },
+  "homepage": "https://github.com/mylinhphxn/ola-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
